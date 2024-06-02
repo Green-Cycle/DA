@@ -21,3 +21,9 @@ https://public.tableau.com/app/profile/katia.goldchleger/viz/Porcentagemdemateri
   - https://www.coalizaoembalagens.com.br/o-boom-do-mercado-de-reciclagem-do-plastico/
   - https://www.brasildefato.com.br/2022/07/18/o-lixo-e-a-reciclagem-fonte-de-geracao-de-emprego-renda-e-preservacao-ambiental
   - https://diariodonordeste.verdesmares.com.br/negocios/reciclagem-se-apresenta-como-nicho-promissor-de-mercado-1.572510
+
+## Contribuições
+Se deseja contribuir para o projeto, siga as [diretrizes de contribuição](CONTRIBUTING.md).
+
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
